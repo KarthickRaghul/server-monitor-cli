@@ -1,0 +1,5 @@
+{
+  "os": "linux",
+  "server_name": "Apache",
+  "log_path": "/var/log/apache2/access.log"
+}
